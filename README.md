@@ -4,9 +4,10 @@ Automatización de lavarropas a paleta con Microcontroladores.
 
 INTRODUCCIÓN
 
-	Este proyecto se realizó con el objetivo de fijar y afianzar los conocimientos sobre microprocesadores y microcontroladores, su  programación y simulación, obtener los conocimientos y habilidades necesarias para diseñar un sistema embebido; y para cumplimentar con las exigencias de examen final de la asignatura Procesadores II correspondiente a la carrera Ingeniería Electrónica con Orientación en Sistemas Digitales de Universidad Nacional de San Luis.
+Este proyecto se realizó con el objetivo de fijar y afianzar los conocimientos sobre microprocesadores y microcontroladores, su  programación y simulación, obtener los conocimientos y habilidades necesarias para diseñar un sistema embebido; y para cumplimentar con las exigencias de examen final de la asignatura Procesadores II correspondiente a la carrera Ingeniería Electrónica con Orientación en Sistemas Digitales de Universidad Nacional de San Luis.
  	Se utilizó el lenguaje C, y sus diferentes métodos, para la  programación de un microcontrolador PIC, estudiado y utilizado durante el curso de la materia además de los microcontroladores ATMEL.
 	En cuanto al proyecto, se baso en la idea de automatizar un lavarropas a paleta, es decir, se diseñará un circuito que permita generar retardos de varios minutos para controlar el motor; y manejar electro bombas, una electroválvula y un presostato de dos niveles para permitir el llenado y vaciado del lavarropas.
+
 
 METODOLOGIA  DE  TRABAJO:
 
